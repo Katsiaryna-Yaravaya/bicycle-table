@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db9827d3-8609-40fd-8e2f-34bbc8808023" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../training-js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training-js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1qszNZnTSdezSXnCfbgFEGPYtkk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kanban-board/kanban-board-frontend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="D:\api-bicycle\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db9827d3-8609-40fd-8e2f-34bbc8808023" name="Default Changelist" comment="" />
+      <created>1617883049816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617883049816</updated>
+      <workItem from="1617883051790" duration="3444000" />
+      <workItem from="1617886838905" duration="710000" />
+      <workItem from="1617888134080" duration="6809000" />
+      <workItem from="1617895845497" duration="248000" />
+      <workItem from="1617899055294" duration="19651000" />
+      <workItem from="1617954844579" duration="18928000" />
+      <workItem from="1618180242978" duration="5037000" />
+      <workItem from="1618250033736" duration="11905000" />
+      <workItem from="1618298192625" duration="4796000" />
+      <workItem from="1618313577714" duration="102000" />
+      <workItem from="1618316133159" duration="2291000" />
+      <workItem from="1618323180294" duration="2899000" />
+      <workItem from="1618397154757" duration="435000" />
+      <workItem from="1618397693749" duration="113000" />
+      <workItem from="1618397928203" duration="134000" />
+      <workItem from="1618398671942" duration="27000" />
+      <workItem from="1618399499872" duration="806000" />
+      <workItem from="1618487182906" duration="361000" />
+      <workItem from="1618489709286" duration="315000" />
+      <workItem from="1619508921824" duration="515000" />
+      <workItem from="1619509543032" duration="407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619509756906">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1619509756906" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1619509609234">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1619509609234" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1619509979994">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1619509979994" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1619509042402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1619509042402" />
+    <state x="560" y="103" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1619509261670">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="560" y="103" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.738@0.0.1366.738" timestamp="1619509261670" />
+  </component>
+</project>
